@@ -23,5 +23,5 @@ while True:
         deck.shuffle_deck()
         print("Deck shuffled!")
     if user_input == 'q':
-        print("Thanks for playing\ngoodbye!")
+        print("Thanks for playing!\ngoodbye!")
         break
